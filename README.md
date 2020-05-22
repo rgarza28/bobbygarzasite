@@ -7,3 +7,5 @@ This is my site containing the following pages:
 All pages were styled using bootstrap cdn
 All pages were created using semantic html
 All pages were HTML validated
+
+https://rgarza28.github.io/bobbygarzasite/
